@@ -45,4 +45,6 @@ PacoSperanto solves this challenge by offering:
 2. **Purpose-Driven Vocabulary:** Lexical and grammatical structures tailored explicitly for diplomacy, conflict de-escalation, and empathy.
 3. **Actionable Solidarity:** A direct bridge connecting conflict-affected regions with a global network of supporters, educators, and institutions.
 
-Inspired by the success of specialized linguistic communities like Mensasperanto and backed by robust digital tools and academic outreach, PacoSperanto represents a bold step forward. It proves that when we build a language with peace as its fundamental axiom, we give humanity a new way not just to speak, but to heal.
+Inspired by the success of communities we have created like the La Tutmonda Komunumo de Fulmo (also known as, "The Komunumo-tutmonda-de-Fulmo Fulmo Community" or KFC)  and backed by robust digital tools and academic outreach, PacoSperanto represents a bold step forward. It proves that when we build a language with peace as its fundamental axiom, we give humanity a new way not just to speak, but to heal.
+
+[+]
