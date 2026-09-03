@@ -20,3 +20,18 @@ What we ask of participants is that they record a seven-to-ten-minute talk on th
 <stuff deleted>
 
 [+]
+<this .md file is Work In Progress>
+
+Q2. [Question from A R]
+
+[+]
+
+Q3. [Question from Sergei]
+
+[+]
+
+Q4. [Question from S M]
+
+[+]
+
+Q4. [Question from G S]
