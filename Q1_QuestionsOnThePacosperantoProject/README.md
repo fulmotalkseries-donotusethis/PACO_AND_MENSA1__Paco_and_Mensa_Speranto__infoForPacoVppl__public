@@ -7,7 +7,7 @@
 Q1. [Question from Rimas] Are you creating a new ConLang?
 
 Answer.
- #### <stuff deleted>
+ #### #stuff_deleted
 
 The conlang has already been developed — it's called Pacosperanto.
 
