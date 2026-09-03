@@ -12,7 +12,9 @@ The development of the Mensasperanto language went hand in hand with the creatio
 
 Unlike nascent theoretical projects, the Fulmo Talk Series has already achieved success as a talk series for creating mental wellness and productivity related resources. The development of the Mensasperanto language went hand in hand with the creation of the Fulmo Talk Series. 
 
-Here is information from the code created for the Mensasperanto project.
+Here is information from one of the comments in the code for some software created for the Mensasperanto project.
+
+#### Information
 
 "Konektante individuojn serĉantajn internan pacon kun prelegoj de ĉefaj spertuloj kaj industriaj fakuloj, la retejo de la Parolada Serio Fulmo provizas riĉan aron de rimedoj por homoj serĉantaj pliajn informojn pri feliĉo, mensa bonfarto kaj produktiveco. Mensasperanto celas provizi neŭtralan lingvan kaj kulturan bazon por akompani ĉi tiun projekton. Inter ili estas iloj kreitaj por administri komunumojn kaj por persona scio-administrado. Kiel menciite, la celo de la Parolada Serio Fulmo estas krei malmultekostajn kaj senpagajn rimedojn por tiuj, kiuj plej bezonas ilin.""
 
