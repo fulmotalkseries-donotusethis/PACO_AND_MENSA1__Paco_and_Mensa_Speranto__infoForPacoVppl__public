@@ -17,7 +17,7 @@ The goal behind these conlangs is to build communities. We've already built one 
 
 What we ask of participants who want to contribute is that they record a seven-to-ten-minute talk on the subject of peace. We were able to attract such people as Sudhanshu Mani, Sanjiv Chopra, Sonja Lyubomirsky and others to the Mensasperanto community. People are allowed to even promote their books, startups, et cetera. For some people, there is significant value add. For others, there isn't a whole lot of value add. That is why the decision has to be taken by each individual based on whether it makes sense for them to spend the two or three hours of time it takes to record a talk.
 
-#### <stuff deleted>
+ #### #stuff_deleted
 
 Note that many participants simply participate as observantoj (that is, "observers") and we have many, many people who are basically spektantoj (that is, viewers).
 
